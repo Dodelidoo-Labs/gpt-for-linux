@@ -23,16 +23,11 @@ GPT-4 Search App is written in Python and uses GTK for creating efficient and fu
 
 ## Prerequisites
 The application requires the following dependencies:
-- Linux OS
+- Linux OS (If you want to use install script, your system must be able to use `pacman`)
 - Python 3.x
 - Python's 'gi' and 'secretstorage' libraries
 - GTK 4.x
 - python-requests
-
-To check and install any missing dependencies, use the following script bundled with the application:
-```bash
-./install.sh
-```
 
 ## How to install
 Use the install script included in the repository for a swift installation.
