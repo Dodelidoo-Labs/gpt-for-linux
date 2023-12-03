@@ -4,7 +4,7 @@ Welcome to the GitHub repository of the GPT-4 Search App for Linux, a powerfully
 
 GPT-4 Search App is written in Python and uses GTK for creating efficient and functional graphical user interfaces. This application embeds GPT API, giving you the ability to use the pre-trained GPT models in a user-friendly Linux app.
 
-![]()
+![Showase Image](showcase-1.png)
 
 ## Table of Contents
 - [Features](#features)
