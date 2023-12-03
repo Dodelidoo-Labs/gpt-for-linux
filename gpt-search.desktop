@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=GPT-4 Search App
+Exec=python3 /home/bedas/Desktop/gpt-app/main.py
+Icon=/home/bedas/Desktop/gpt-app/icon.png
+Terminal=false
+Categories=Utility;
