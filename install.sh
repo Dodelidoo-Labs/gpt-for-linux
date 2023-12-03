@@ -49,7 +49,6 @@ echo "Creating installation directory..."
 mkdir -p "$install_path"
 echo "Downloading scripts..."
 # Download script, CSS, and icon
-# (Replace the URLs with actual URLs where your files are hosted)
 wget -O "$script_path" "https://raw.githubusercontent.com/TukuToi/gpt-for-linux/main/main.py"
 wget -O "$icon_path" "https://raw.githubusercontent.com/TukuToi/gpt-for-linux/main/icon.png"
 wget -O "$install_path/style.css" "https://raw.githubusercontent.com/TukuToi/gpt-for-linux/main/style.css"
