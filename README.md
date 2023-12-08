@@ -30,6 +30,8 @@ The application requires the following dependencies:
 - python-requests
 
 ## How to install
+
+### From Source
 Use the install script included in the repository for a swift installation.
 
 First, download the `install.sh` file to your computer
@@ -43,6 +45,14 @@ Execute the script:
 ```
 
 This script will check for dependencies (and install them if your system uses `pacman`), create the required directories, download the needed scripts and make them executable, and finally, create a `.desktop` file for easy application launch.
+
+### Using the precompiled App
+
+_Currently linux only_
+
+1. Download the file in the `/dist` folder
+2. Create the `.desktop` file manually and use like any other app.
+3. Place the `gpt4-all.png` file into your icons folder and rebuild the icons cache.
 
 ## How to use
 Once installed, you can run GPT-4 Search App from your Linux application menu. 
